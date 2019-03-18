@@ -1,10 +1,13 @@
 # security
 Pour l'audit j'ai choisi l'adresse https://www.societe-synaps.com
-L'audit se compose en 4 types
+L'audit se compose en 4 types.
 
 > / Progressive Web App 27%
+
 > / Performance 100%
+
 > / Accessibility 91%
+
 > / Best Practices 83%
 
 Le type Progressive Web App est la plus mal noté, alors que faire pour l'améliorer?
